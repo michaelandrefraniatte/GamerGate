@@ -1,0 +1,17 @@
+C:\Users\mic\Documents\GitHub\GG\Src\GamerGate\GamerGate\bin\Release\GamerGate.exe.config
+C:\Users\mic\Documents\GitHub\GG\Src\GamerGate\GamerGate\bin\Release\GamerGate.exe
+C:\Users\mic\Documents\GitHub\GG\Src\GamerGate\GamerGate\bin\Release\GamerGate.pdb
+C:\Users\mic\Documents\GitHub\GG\Src\GamerGate\GamerGate\bin\Release\EO.Base.dll
+C:\Users\mic\Documents\GitHub\GG\Src\GamerGate\GamerGate\bin\Release\EO.WebBrowser.dll
+C:\Users\mic\Documents\GitHub\GG\Src\GamerGate\GamerGate\bin\Release\EO.WebEngine.dll
+C:\Users\mic\Documents\GitHub\GG\Src\GamerGate\GamerGate\bin\Release\EO.Base.xml
+C:\Users\mic\Documents\GitHub\GG\Src\GamerGate\GamerGate\bin\Release\EO.WebBrowser.xml
+C:\Users\mic\Documents\GitHub\GG\Src\GamerGate\GamerGate\bin\Release\EO.WebEngine.xml
+C:\Users\mic\Documents\GitHub\GG\Src\GamerGate\GamerGate\obj\Release\GamerGate.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\GG\Src\GamerGate\GamerGate\obj\Release\GamerGate.Form1.resources
+C:\Users\mic\Documents\GitHub\GG\Src\GamerGate\GamerGate\obj\Release\GamerGate.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\GG\Src\GamerGate\GamerGate\obj\Release\GamerGate.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\GG\Src\GamerGate\GamerGate\obj\Release\GamerGate.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\GG\Src\GamerGate\GamerGate\obj\Release\GamerGate.csproj.CopyComplete
+C:\Users\mic\Documents\GitHub\GG\Src\GamerGate\GamerGate\obj\Release\GamerGate.exe
+C:\Users\mic\Documents\GitHub\GG\Src\GamerGate\GamerGate\obj\Release\GamerGate.pdb
